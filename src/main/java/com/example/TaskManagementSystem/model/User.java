@@ -3,7 +3,6 @@ package com.example.TaskManagementSystem.model;
 import com.example.TaskManagementSystem.enums.UserRole;
 import jakarta.persistence.*;
 
-
 import java.util.List;
 
 @Entity

@@ -4,7 +4,6 @@ import com.example.TaskManagementSystem.enums.TaskPriority;
 import com.example.TaskManagementSystem.enums.TaskStatus;
 import jakarta.persistence.*;
 
-
 @Entity
 public class Task {
     @Id
